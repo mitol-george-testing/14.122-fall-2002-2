@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2a1a2add-3d97-38ad-1997-df1f491b4bcd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Microeconomic Theory II",
+  "course_description": "This course offers an introduction to noncooperative game theory. The course is intended both for graduate students who wish to develop a solid background in game theory in order to pursue research in the applied fields of economics and related disciplines, and for students wishing to specialize in economic theory. While the course is designed for graduate students in economics, it is open to all students who have taken and passed 14.121.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.122",
+  "learning_resource_types": [
+    "Exams",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
